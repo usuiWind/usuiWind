@@ -6,7 +6,7 @@ I am a current University of Houston student who will graduate in the spring of 
 
 ## Objective
 
-My academic journey and personal development have led to me gaining an interest in cybersecurity. I aspire to land a role in the field. 
+My academic journey and personal development have led to me gaining an interest in cybersecurity. I aspire to land a role in the field and continue to build my skills through self-education and projects. 
 
 ## Skills
 
