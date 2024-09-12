@@ -12,8 +12,8 @@ My academic journey and personal development have led to me gaining an interest 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and rule creation          | <a href="https://google.com">SOC Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">SOC Lab</a>|
+| SIEM Implementation and rule creation          | <a href="https://google.com">SIEM Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">SIEM Lab</a>|
 | Security Automation with Tines SOAR         | SOAR EDR Lab|
 | Incident Response Automation and Execution      | SOAR EDR Lab|
 | Case Management with TheHive                  | SOAR EDR Lab|
@@ -39,7 +39,7 @@ My academic journey and personal development have led to me gaining an interest 
     </div>
 
 ## Projects
-- SOC Lab
+- SIEM Lab
 - SOAR EDR Lab
 <!--
 **usuiWind/usuiWind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
