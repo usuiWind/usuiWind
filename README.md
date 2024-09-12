@@ -12,11 +12,11 @@ My academic journey and personal development have led to me gaining an interest 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and rule creation          | <a href="https://google.com">SIEM Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">SIEM Lab</a>|
-| Security Automation with Tines SOAR         | SOAR EDR Lab|
-| Incident Response Automation and Execution      | SOAR EDR Lab|
-| Case Management with TheHive                  | SOAR EDR Lab|
+| SIEM Implementation and rule creation          | <a href="https://github.com/usuiWind/wazuh-siem-lab">SIEM Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/usuiWind/wazuh-siem-lab">SIEM Lab</a>|
+| Security Automation with Tines SOAR         | <a href="https://github.com/usuiWind/SOAR-EDR-PROJECT" >SOAR EDR Lab</a>|
+| Incident Response Automation and Execution      | <a href="https://github.com/usuiWind/SOAR-EDR-PROJECT" >SOAR EDR Lab</a>|
+| Case Management with TheHive                  |  <a href="https://github.com/usuiWind/SOAR-EDR-PROJECT" >SOAR EDR Lab</a>|
 
 
 ## Tools
