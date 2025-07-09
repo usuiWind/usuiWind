@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/austin-schultz-a4b8b028b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a current University of Houston student who will graduate in the spring of 2026. I am interested in the cyber field and coding.
+I am a current University of Houston student who will graduate in the spring of 2026. I am interested in the cyber field and coding. 
 
 ## Objective
 
@@ -16,7 +16,6 @@ My academic journey and personal development have led to me gaining an interest 
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/usuiWind/wazuh-siem-lab">SIEM Lab</a>|
 | Security Automation with Tines SOAR         | <a href="https://github.com/usuiWind/SOAR-EDR-PROJECT" >SOAR EDR Lab</a>|
 | Incident Response Automation and Execution      | <a href="https://github.com/usuiWind/SOAR-EDR-PROJECT" >SOAR EDR Lab</a>|
-| Case Management with TheHive                  |  <a href="https://github.com/usuiWind/SOAR-EDR-PROJECT" >SOAR EDR Lab</a>|
 
 
 ## Tools
