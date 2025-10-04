@@ -33,6 +33,7 @@ My goal is to contribute to **offensive security research, detection engineering
 | ![IR](https://img.shields.io/badge/-Incident%20Response-E34F26?style=flat&logo=hackthebox&logoColor=white) **Response Automation** | [SOAR EDR Lab](https://github.com/usuiWind/SOAR-EDR-PROJECT) |
 | ![Windows](https://img.shields.io/badge/-Windows%20Internals-0078D6?style=flat&logo=windows&logoColor=white) **PE File Analysis** | [Windows PE Walker](https://github.com/usuiWind/windows-pe-walker) |
 | ![Adversary](https://img.shields.io/badge/-Adversary%20Emulation-181717?style=flat&logo=github&logoColor=white) **Emulation & Tradecraft** | [Windows PE Walker](https://github.com/usuiWind/windows-pe-walker) |
+| ![Cloud](https://img.shields.io/badge/-Cloud%20Security-232F3E?style=flat&logo=amazonaws&logoColor=white) **AWS Mitigations & Automation** | [CloudMitigator](https://github.com/usuiWind/CloudMitigator) |
 
 ---
 
@@ -45,15 +46,17 @@ My goal is to contribute to **offensive security research, detection engineering
   <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/-Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-E74C3C?style=for-the-badge&logo=mitre&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
 
 ## 📂 Featured Projects  
 
-- 🛡️ [**SIEM Lab**](https://github.com/usuiWind/wazuh-siem-lab) – Wazuh SIEM with Sysmon integration & Mimikatz detection  
-- ⚡ [**SOAR EDR Lab**](https://github.com/usuiWind/SOAR-EDR-PROJECT) – Incident response automation with LimaCharlie + Tines  
-- 🏴‍☠️ [**Windows PE Walker**](https://github.com/usuiWind/windows-pe-walker) – PE parsing & adversary emulation foundations  
+- 🛡️ [**SIEM Lab**](https://github.com/usuiWind/wazuh-siem-lab) – Wazuh SIEM with Sysmon integration & Mimikatz detection.  
+- ⚡ [**SOAR EDR Lab**](https://github.com/usuiWind/SOAR-EDR-PROJECT) – Incident response automation with LimaCharlie + Tines.  
+- 🏴‍☠️ [**Windows PE Walker**](https://github.com/usuiWind/windows-pe-walker) – PE parsing & adversary emulation foundations.  
+- ☁️ [**CloudMitigator**](https://github.com/usuiWind/CloudMitigator) – Takes four threat types as input and applies automated mitigations via the AWS SDK. Includes CloudWatch logging for auditability and operational visibility. (Repo: https://github.com/usuiWind/CloudMitigator)
 
 ---
 
