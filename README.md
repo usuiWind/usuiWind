@@ -8,10 +8,8 @@
 
 ##  Objective  
 
-Building a foundation in **cybersecurity, red team operations, and system internals** through coursework, hands-on labs, and self-directed projects.  
+Building a foundation in **cybersecurity, red team operations, cloud security, detection engineering and system internals** through coursework, hands-on labs, and self-directed projects.  
 My goal is to contribute to **offensive security research, detection engineering, and security automation** while continuing to expand my expertise.  
-
-*Red team tooling coming soon™*  
 
 ---
 
