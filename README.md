@@ -54,7 +54,7 @@ My goal is to contribute to **offensive security research, detection engineering
 -  [**SIEM Lab**](https://github.com/usuiWind/wazuh-siem-lab) – Wazuh SIEM with Sysmon integration & Mimikatz detection.  
 -  [**SOAR EDR Lab**](https://github.com/usuiWind/SOAR-EDR-PROJECT) – Incident response automation with LimaCharlie + Tines.  
 -  [**Windows PE Walker**](https://github.com/usuiWind/windows-pe-walker) – PE parsing & adversary emulation foundations.  
--  [**CloudMitigator**](https://github.com/usuiWind/CloudMitigator) – Takes four threat types as input and applies automated mitigations via the AWS SDK. Includes CloudWatch logging for auditability and operational visibility. (Repo: https://github.com/usuiWind/CloudMitigator)
+-  [**CloudMitigator**](https://github.com/usuiWind/CloudMitigator) – Detects four common TTPs and applies automated mitigations via the AWS SDK. Includes CloudWatch logging for auditability and operational visibility. 
 
 ---
 
