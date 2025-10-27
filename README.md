@@ -32,7 +32,7 @@ My goal is to contribute to **offensive security research, detection engineering
 | ![Windows](https://img.shields.io/badge/-Windows%20Internals-0078D6?style=flat&logo=windows&logoColor=white) **PE File Analysis** | [Windows PE Walker](https://github.com/usuiWind/windows-pe-walker) |
 | ![Adversary](https://img.shields.io/badge/-Adversary%20Emulation-181717?style=flat&logo=github&logoColor=white) **Emulation & Tradecraft** | [Windows PE Walker](https://github.com/usuiWind/windows-pe-walker) |
 | ![Cloud](https://img.shields.io/badge/-Cloud%20Security-232F3E?style=flat&logo=amazonaws&logoColor=white) **AWS Mitigations & Automation** | [CloudMitigator](https://github.com/usuiWind/CloudMitigator) |
-| ![Networking](https://img.shields.io/badge/-Toralizer-232F3E?style=flat&logo=amazonaws&logoColor=white) **Networkign & Privacy ** | [CloudMitigator](https://github.com/usuiWind/toralizer) |
+| ![Networking](https://img.shields.io/badge/-Toralizer-232F3E?style=flat&logo=amazonaws&logoColor=white) **Networkign & Privacy** | [Toralizer](https://github.com/usuiWind/toralizer) |
 
 ---
 
@@ -67,5 +67,4 @@ My goal is to contribute to **offensive security research, detection engineering
 
 ---
 
- *“Breaking systems to build them stronger.”*  
 
