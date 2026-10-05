@@ -6,11 +6,11 @@
 
 ---
 
-##  Objective  
+##  Summary 
 
-Building a foundation in **cybersecurity, red team operations, cloud security, detection engineering and system internals** through coursework, hands-on labs, and self-directed projects.  
-My goal is to contribute to **offensive security research, detection engineering, and security automation** while continuing to expand my expertise.  
-
+I work in infrastructure security at IBM, helping regulated organizations find, prioritize, and fix security risk. I graduated from the University of Houston in 2026 with a BS in Computer Information Systems and a 3.9 GPA.
+My path started with curiosity about how systems break. At MITRE I studied Windows internals and wrote low level tooling, and that taught me to think like an attacker. Today I use that perspective to build and defend cloud environments.
+I care about security that is practical, well documented, and understood by the people it protects. I am building toward cloud security engineering and then architecture, with the long term goal of leading teams and explaining risk in terms the business can act on.
 ---
 
 ##  Certifications  
