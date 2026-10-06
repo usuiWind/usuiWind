@@ -1,6 +1,6 @@
 # Austin Schultz
 
-**Cloud Security Engineer in progress | Infrastructure Security @ IBM | Offensive mindset, defensive builder**
+**Cloud Security Engineer in progress | Infrastructure Security @ IBM | **
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/austin-schultz-a4b8b028b)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/usuiWind)
