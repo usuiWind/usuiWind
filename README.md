@@ -8,24 +8,26 @@
 
 ---
 
-## Summary
+## About
 
-I work in infrastructure security at IBM, helping regulated organizations find, prioritize, and fix security risk. I graduated from the University of Houston in 2026 with a BS in Computer Information Systems and a 3.9 GPA.
+I am a cloud security engineer in the making at IBM, focused on securing infrastructure for regulated public sector and healthcare organizations. I work on finding and prioritizing risk, remediation actions, and mapping controls to NIST 800 53 so security teams can act on what matters most.
 
-My path started with curiosity about how systems break. At MITRE I studied Windows internals and wrote low level tooling, and that taught me to think like an attacker. Today I use that perspective to build and defend cloud environments.
+My foundation comes from MITRE, where I researched Windows internals and wrote low level C++ and Assembly tooling. Thinking like an attacker shapes how I design and defend cloud systems today.
 
-I care about security that is practical, well documented, and understood by the people it protects. I am building toward cloud security engineering and then architecture, with the long term goal of leading teams and explaining risk in terms the business can act on.
+I build security tooling on AWS, including a hardening platform and SOAR automation, and I am deepening my skills in IAM, infrastructure as code, and Kubernetes security. My goal is to grow into cloud security architecture and eventually lead teams, translating technical risk into decisions the business can act on.
+
+**Focus areas:** AWS security, IAM, infrastructure as code, Kubernetes security, security automation
 
 ---
 
 ## Certifications
 
+[![AWS Security Specialty](https://img.shields.io/badge/AWS-Security%20Specialty-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-security-specialty/)
+[![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+[![Claude Certified Architect Professional](https://img.shields.io/badge/Anthropic-Claude%20Certified%20Architect%20Professional-D97757?style=flat&logo=anthropic&logoColor=white)](https://www.anthropic.com)
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
 [![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-004A91?style=flat&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/cybersecurity-analyst)
 [![GIAC GFACT](https://img.shields.io/badge/GIAC-GFACT-2E8B57?style=flat&logo=readthedocs&logoColor=white)](https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/)
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-[![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI%20Practitioner-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-ai-practitioner/)
-
 ---
 
 ## What I Focus On
